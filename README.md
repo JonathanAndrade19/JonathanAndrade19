@@ -1,7 +1,7 @@
 ## 👋  HEY Devs
 
  
- Say devs my name is ** Jonathan Andrade** , and i am a web developer with the following limguages ​​to follow
+ Say devs my name is **Jonathan Andrade** , and i am a web developer with the following limguages ​​to follow
  
  **Social Networks :** 
 
