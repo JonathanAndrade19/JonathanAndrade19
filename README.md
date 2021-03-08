@@ -1,11 +1,11 @@
-## 👋  HEY Devs
+### 👋  HEY Devs 
 
  
  Say devs my name is **Jonathan Andrade** , and i am a web developer with the following limguages ​​to follow
  
  **Social Networks :** 
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)![](https://www.linkedin.com/in/jonathan-andrade-5bb017b1/) ![Instagram](https://www.linkedin.com/in/jonathan-andrade-5bb017b1/)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)![](https://www.linkedin.com/in/jonathan-andrade-5bb017b1/) ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 
  **Languages :** 
@@ -26,3 +26,4 @@
 
 **Softs Skills :**
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
