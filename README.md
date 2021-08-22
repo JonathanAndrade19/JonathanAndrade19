@@ -1,7 +1,7 @@
 ## 👋🏻 HEY Devs
 
 
-Fala Galera Blz, Sou o **Jonathan Andrade**, sou  💻 Programador Web nas seguintes linguagem a baixo ⤵️
+Fala Galera Blz, Sou o **Jonathan Andrade**, sou  💻 Programador Web Front-End ⤵️
  
  **Social Networks :** 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)![](https://www.linkedin.com/in/jonathan-andrade-5bb017b1/)](https://www.linkedin.com/in/jonathan-andrade-5bb017b1/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonathanandrade/) 
