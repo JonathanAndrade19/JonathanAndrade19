@@ -1,27 +1,30 @@
 ## 👋🏻 HEY Devs
 
+<em>Me chamo **Jonathan Andrade**</em></br>
 
-Fala Galera Blz, Sou o **Jonathan Andrade**, sou  💻 Programador Front-End ⤵️
- 
- **Social Networks :** 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)![](https://www.linkedin.com/in/jonathan-andrade-5bb017b1/)](https://www.linkedin.com/in/jonathan-andrade-5bb017b1/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonathanandrade/) 
+ <em>
+ Contando um pouco sobre mim
 
+- Atualmente, sou engenheiro de software atuando como front-end. Meu foco principal é Angular | TypeScript, mas já trabalhei com VueJs, PHP e Java ao longo da minha carreira.
 
-**Languages :** 
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- Sou formado em Análise e Desenvolvimento de Sistemas e estou cursando uma pós-graduação em Desenvolvimento de Softwares com práticas DevOps.
 
-**Front-End :**
-![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+- Estou prestes a completar 6 anos de experiência na área de desenvolvimento de software.
 
+- Trabalho muito bem em equipe e já atuei em empresas tanto pequenas quanto de grande porte. Atualmente, estou na Minsait, alocado em projetos do Banco do Brasil.
 
-<!-- 
-**Back-End :**
-![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
- -->
-<!-- 
-**Data Base :** 
-![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
- -->
+- Nos últimos dois anos e meio, estive envolvido em projetos com alta demanda e importância, sempre dando ênfase a um código limpo e bem feito, visando proporcionar a melhor experiência para o usuário.
+</em>
 
-**Softs Skills :**
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+## 🌐 Rede Sociais:
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/jonathanandrade) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.instagram.com/jonathanandrade/) 
+
+## frameworks | limguagem de Programação: 
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=angular,react,vue,nextjs,ts,js,bootstrap,css,sass,less,tailwind,html,jquery,nodejs,php,java,spring" />
+</p>
+
+## 💻 Ferramentas: 
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=maven,docker,kubernetes,mysql,postgres,sqlite,git,github,gitlab,gulp,yarn,webpack,selenium,jenkins,postman,npm,babel" />
+</p>
