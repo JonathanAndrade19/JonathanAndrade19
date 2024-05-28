@@ -17,7 +17,7 @@
 </em>
 
 ## 🌐 Rede Sociais:
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/jonathanandrade) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.instagram.com/jonathanandrade/) 
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/jonathanandrade) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jonathan-andrade-5bb017b1/) 
 
 ## frameworks | limguagem de Programação: 
 <p align="center">
